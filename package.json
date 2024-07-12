@@ -1,5 +1,5 @@
 {
-  "name": "qvikchat-product-recommendation-example",
+  "name": "products-rag-chat",
   "version": "1.0.0",
   "description": "Example of a chat endpoint with support for chat history, cache and Retrieval Augmented Generation (RAG) built using QvikChat.",
   "main": "lib/index.js",
